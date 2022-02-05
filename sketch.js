@@ -2098,4 +2098,4 @@ function Enemy(x, y, range)
 
 
 
-// Copyright © 2022 Worthy Goldman
+// Copyright © 2022 worthyag
